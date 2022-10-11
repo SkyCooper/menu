@@ -1,0 +1,26 @@
+ul{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+li{
+  padding: 1rem 4rem;
+  background-color: bisque;
+  margin: 1rem ;
+  list-style-type: none;
+  text-decoration: none;
+  font-size: 2rem;
+  font-weight: 600;
+  display: block;
+  border-radius: 20px;
+  letter-spacing: 5px;
+  transition: all 1s;
+  text-transform: capitalize;
+
+}
+
+li:hover{
+  background-color: rgb(233, 97, 97);
+  color: white;
+}

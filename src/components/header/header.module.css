@@ -1,0 +1,9 @@
+h1{
+  text-align: center;
+  background-color: rgb(241, 169, 169);
+  padding: 2rem;
+  font-size: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  word-spacing: 2rem;
+}

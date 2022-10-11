@@ -1,9 +1,10 @@
+import data from "./components/data/data";
+import Main from "./components/main/Main";
 
+import "./App.css"
 
 const App = () => {
-  return(
-    <h1>Template</h1>
-  )
-}
+  return <Main data = {data} />;
+};
 
-export default App
+export default App;

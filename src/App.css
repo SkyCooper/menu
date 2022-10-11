@@ -1,0 +1,6 @@
+.adana{
+  display: flex;
+  flex-wrap: wrap;
+  width: 1300px;
+  margin: 0 auto;
+}
